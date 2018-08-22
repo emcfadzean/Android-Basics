@@ -2,4 +2,15 @@
     <string name="app_name">My First App</string>
     <string name="button">Send</string>
     <string name="autofill_text">Comment</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Navigation Drawer</string>
+    <string name="nav_header_subtitle">Filled with fun nav drawer stuff</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">More Options</string>
+    <string name="textTitle">Title</string>
+    <string name="textContent">Content</string>
+    <string name="channel_name">Name</string>
+    <string name="channel_description">Description</string>
 </resources>
